@@ -1,0 +1,31 @@
+.space{
+
+
+  padding: 40px;
+  background: black;
+  color: white;
+  font-size: 20
+  .bg {background-image: url(space.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;px
+
+}
+h2{
+  text-align: center;
+  text-decoration: underline;
+}
+
+#elite{background-image:url("elite.png");}
+#pic{margin-left:810px;}
+#quotetxt{font-size:34.3px;text-align:center;}
+#hi{font-weight:bold;}
+
+.bg {
+  background-image: url(space.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
